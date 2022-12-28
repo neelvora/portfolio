@@ -4,6 +4,22 @@ body::before {
     height: 70px;
 }
 
+.home-header{
+text-shadow: 2px 3px #2b1003;
+}
+
+.what-do-you-see-button{
+    color: whitesmoke;
+    background-color: transparent;
+    border: solid black 1px;
+    text-shadow: 2px 2px #2b1003;
+}
+
+#services img{
+    width: 150px;
+    height: 150px;
+}
+
 #map {
     width: 100%;
     height: 100%;
